@@ -1,0 +1,28 @@
+name: starmonroe
+favicon: null
+layout_spectrum: 0.18599613686092198
+typography_spectrum: 0.7558937128633261
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.42785702901892364
+  lightness: 0.4315848599653691
+  saturation: 0.3731456643436104
+  rhythmicContrast: 0.4788216317538172
+purpose: []
